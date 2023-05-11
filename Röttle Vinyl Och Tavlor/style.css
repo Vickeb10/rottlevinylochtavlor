@@ -1,0 +1,67 @@
+#RöttleVinyl{
+    text-align: center;
+    font-size: 40px;}
+    
+.main{ 
+    top:150px;
+    position: relative;}
+#title {
+    text-align: center;
+}
+#Röttle {
+    text-align: center;
+} 
+#Röttleimg{
+    border: 5px solid black;
+    padding:0;
+    margin:0;
+    width: 900px;
+}
+.Öppetider {
+    right: 50px;
+    font-size: 15px;
+    top : 30px;
+    position: fixed;
+    
+}
+#topbar {
+    padding:0;
+    margin:0;
+    background-color: white;
+    position: fixed;
+    left:0;
+    right:0;
+    top:0;
+    z-index: 1;
+    height: 139px;
+}
+#topbar img{
+    width: 200px;
+    height: 100px;
+    border: 3px solid black;
+    margin:10px;
+}
+.Öppetider2{
+    right: 200px;
+    position: fixed;
+    top: 0px;
+    font-size: 16px;
+} 
+    
+
+#Prodoktinfo{
+    font-size: 30px;
+    top: -128px;
+    left: 350px;
+    position: relative;
+    color: black;
+    text-decoration: underline;
+}
+#Hem{
+    top: 10px;
+    font-size: 30px;
+    position: fixed;
+    left: 250px;
+    color: black;
+    text-decoration: underline;
+}
